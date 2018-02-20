@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav justify-content-center">
-	  			<div class="nav justify-content-center">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	  			<div class="container">
 	  			<a class="navbar-brand" href="index.php">
 	  				<img src="img/if_Poltergeist_710069.png">
 	  			</a>
