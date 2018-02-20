@@ -1,13 +1,13 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav justify-content-center">
-	  			<div class="nav justify-content-center">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<div class="container">
 	  			<a class="navbar-brand" href="index.php">
-	  				<span class="navbar-brand mb-0 h1 ">Inicio</span>
+	  				<span class="navbar-brand mb-0 h1">Inicio</span>
 	  			</a>
 	  			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 	    			<span class="navbar-toggler-icon"></span>
 	  			</button>
-	  			<div class="collapse navbar-collapse " id="navbarSupportedContent">
-	    			<ul class="navbar-nav mr-auto">
+	  			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    			<ul class="navbar-nav">
 	      			<!-- 	<li class="nav-item dropdown">
 	        				<a class="nav-link active dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Desplegable 1</a>
 	        					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -33,5 +33,5 @@
 			      		</li>
 	    			</ul>
 	  			</div>
-	  		</div>
+	  	</div>
 </nav>
