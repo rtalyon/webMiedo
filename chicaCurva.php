@@ -1,7 +1,7 @@
 <?php include("inc/head.php");?>
 	<div id="content" class="container-fluid ">
 		<div class="row mt-5">
-			<div id="container" class="div-img hidden" class="col-3" >
+			<div id="contImg" class="div-img hidden" class="col-3" >
 			    <img class="img" src="img/la_chica_de_la_curva.jpg" title="Foto14" alt="Foto14">
 			</div>	
 		<div class="row mt-5">

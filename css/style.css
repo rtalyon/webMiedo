@@ -3,7 +3,7 @@ body{
 	background-repeat: repeat;
 	position: relative;
 }
-#container {
+div#contImg {
   width: 400px;
   height: 315px;
  /* position: absolute;*/
