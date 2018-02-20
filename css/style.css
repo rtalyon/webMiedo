@@ -1,5 +1,13 @@
+body{
+	background-image: url("../img/miedo.jpg");
+	background-repeat: repeat;
+	position: relative;
+}
+nav{
+		text-align: center;
+	}
 @media (max-width: 575px){
-
+	
 }
 @media (min-width: 576px) and (max-width: 767px){
 

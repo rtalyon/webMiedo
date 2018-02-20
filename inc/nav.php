@@ -25,6 +25,9 @@
 			        		<a class="nav-link" href="index.php">Leyendas urbanas</a>
 			      		</li>
 			      		<li class="nav-item active">
+			        		<a class="nav-link" href="index.php">Mitos</a>
+			      		</li>
+			      		<li class="nav-item active">
 			        		<a class="nav-link" href="index.php">Rumores</a>
 			      		</li>
 	    			</ul>
