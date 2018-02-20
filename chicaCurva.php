@@ -5,7 +5,7 @@
 				<img src="img/curva.jpg" class="img-fluid ">
 			</div>	
 			<div>
-				<a href="chicaCurva.php" target="_blank"><p class="mt-5 font-weight-bold text-white" class="fear">História de la chica de la curva</p></a>
+				
 			</div>
 		</div>
 	</div>

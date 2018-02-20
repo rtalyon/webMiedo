@@ -1,11 +1,12 @@
-/*body{
-	background-image: url("../img/miedo.jpg");
+body{
+	background-color: black;
 	background-repeat: repeat;
 	position: relative;
+}
+/*div.fear{
+	color: white;
+	text-decoration-style: bold;
 }*/
-nav{
-		text-align: center;
-	}
 @media (max-width: 575px){
 	
 }
