@@ -8,6 +8,10 @@ body, html {
     margin: 0;
     font: 400 15px/1.8 "Lato", sans-serif ;
 	color: #777;
+	background-color: black;
+	/*background-repeat: repeat;*/
+	position: relative;
+
 }
 .bgimg-1 {
   	position: relative;
@@ -21,18 +25,21 @@ body, html {
 .caption {
   	position: absolute;
   	left: 0;
-  	top: 50%;
+  	top: 40%;
   	width: 100%;
   	text-align: center;
   	color: #000;
 }
 .caption span.border {
 	border: none!important;
-  	background-color: #111;
+  /*	background-color: #111!important;*/
   	color: #fff;
   	padding: 18px;
-  	font-size: 25px;
+  	font-size: 50px;
   	letter-spacing: 10px;
+  /*	font-family: 'Kaushan Script', cursive;*/
+  	font-family: 'Butcherman', cursive;
+
 }
 div#contImg {
   width: 400px;
@@ -69,10 +76,10 @@ div#contImg {
 .div-img:hover .img {
   margin-left: -200px;
 }
-/*div.fear{
-	color: white;
-	text-decoration-style: bold;
-}*/
+div#fearPsycho{
+	background-color: white;
+	
+}
 @media (max-width: 575px){
 	
 }

@@ -20,7 +20,7 @@
 	        					</div>
 	      				</li> -->
 			      		<li class="nav-item active">
-			        		<a class="nav-link" href="index.php">Qué es el miedo?</a>
+			        		<a class="nav-link" href="Fear.php">Qué es el miedo?</a>
 			      		</li>
 			      		<li class="nav-item active">
 			        		<a class="nav-link" href="leyendasUrbanas.php">Leyendas urbanas</a>
