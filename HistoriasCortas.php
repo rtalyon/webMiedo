@@ -1,0 +1,18 @@
+<?php include("inc/head.php");?>
+	<div id="content" class="container-fluid ">
+		<!-- <div class="row mt-5"> -->
+			
+		<div class="row mt-5">
+			<div>
+				<p class="col-8 offset-2 text-white text-justify">De muy joven, Enriqueta se traslada desde su ciudad natal (Sant Feliu de Llobregat) a Barcelona, donde trabajará como niñera, pero pronto comienza a ejercer la prostitución, tanto en burdeles como en lugares dedicados a esta actividad, como eran el Puerto de Barcelona o el Portal de Santa Madrona. En 18954​ se casa con un artista, un pintor llamado Juan Pujaló, pero el matrimonio fracasó por, según Pujaló, la afición de Enriqueta por los hombres, su carácter extraño, falso, impredecible y sus continuas visitas a casas de mala vida. A pesar de estar casada, no dejó de frecuentar los ambientes de prostitución ni el mundo de la gente de mal vivir. La pareja se reconcilió y se separó unas seis veces. En el momento de la detención de Enriqueta en 1912, el matrimonio llevaba más de cinco años viviendo separados y no tuvieron hijos.</p>
+				<div class="col-3 rounded mx-auto d-block my-5"  >
+				    <img class="img" src="img/enriqueta-marti.jpg">
+				</div>
+				<p class="col-8 offset-2 text-white text-justify">Enriqueta llevaba una doble vida: durante el día, mendigaba y pedía en casas de caridad, conventos y parroquias, vistiendo harapos y llevando en ocasiones niños de la mano que hacía pasar por sus hijos. Posteriormente, los prostituía o los asesinaba. Sin embargo, no tenía ninguna necesidad de mendigar, ya que su doble trabajo como proxeneta y prostituta le daban suficiente dinero para vivir sin problemas. De noche se vestía con ropas lujosas, sombreros y pelucas, y se hacía ver en el Teatro del Liceo, el Casino de la Arrabassada y otros lugares donde acudía la clase acomodada de Barcelona. Es probable que en estos lugares ofreciera sus servicios como proxeneta especializada en niños.<br><br>
+
+				En 1909 fue detenida en su piso de la calle Minerva de Barcelona acusada de regentar un burdel donde se ofrecían servicios sexuales de niños de entre 3 y 14 años. Junto a ella, fue detenido un joven de una familia de alta posición social. Gracias a sus contactos con altas personalidades barcelonesas que contrataban sus servicios como proxeneta infantil, Enriqueta nunca tuvo un juicio por el asunto del burdel y el proceso se perdió en el olvido judicial y burocrático.<br><br>
+
+				Al mismo tiempo que hacía de proxeneta de niños, también ejercía la profesión de curandera. Los productos que utilizaba para fabricar sus remedios estaban compuestos por restos humanos de los niños que mataba, que llegaban incluso a ser desde niños de pecho hasta de 9 años. De esos niños lo aprovechaba casi todo, la grasa, la sangre, los cabellos, los huesos (que normalmente transformaba en polvo); por esta razón no tenía problemas para deshacerse de los cuerpos de sus víctimas. Enriqueta ofrecía sus ungüentos, pomadas, filtros, cataplasmas y pociones, especialmente para curar la tuberculosis, tan temida en aquella época, y todo tipo de enfermedades que no tenían cura en la medicina tradicional. Gente de clase alta pagaba grandes sumas de dinero por estos remedios.<br><br>
+
+				Secuestró a un número indeterminado de criaturas. En el momento de su última detención se encontraron en su piso del barrio del Raval, en el número 29, entresuelo primera de la calle de Poniente (hoy Joaquín Costa), y en diferentes pisos de Barcelona donde había vivido, los huesos de un total de doce niños. Los forenses tuvieron mucho trabajo, ya que quedaban pocos restos para examinar.</p>
+<?php include("inc/footer.php");?>

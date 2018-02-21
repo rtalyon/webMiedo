@@ -26,10 +26,10 @@
 			        		<a class="nav-link" href="leyendasUrbanas.php">Leyendas urbanas</a>
 			      		</li>
 			      		<li class="nav-item active">
-			        		<a class="nav-link" href="index.php">Mitos</a>
+			        		<a class="nav-link" href="HistoriasCortas.php">Mitos y Rumores</a>
 			      		</li>
 			      		<li class="nav-item active">
-			        		<a class="nav-link" href="index.php">Rumores</a>
+			        		<a class="nav-link" href="historia.php">Historias</a>
 			      		</li>
 	    			</ul>
 	  			</div>
