@@ -78,7 +78,8 @@ div#contImg {
 }
 div#fearPsycho{
 	background-color: white;
-	
+	font-family: 'Kalam', cursive;
+	font-size: 15px;
 }
 @media (max-width: 575px){
 	

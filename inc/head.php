@@ -9,6 +9,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Butcherman" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
 	</head>
 	</body>
 		<?php include("header.php");?>
