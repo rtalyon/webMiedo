@@ -1,6 +1,10 @@
 <?php include("inc/head.php");?>
-	<div id="content" class="container-fluid">
-		<div class="row">			
-		</div>
+
+<div class="bgimg-1">
+	<div class="caption">
+		<span class="border">MIEDO</span></br>
+		<span class="border">HISTORIAS Y LEYENDAS</span>
 	</div>
+</div>
+
 <?php include("inc/footer.php");?>
