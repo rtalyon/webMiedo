@@ -23,10 +23,10 @@
 			        		<a class="nav-link" href="Fear.php">Qué es el miedo?</a>
 			      		</li>
 			      		<li class="nav-item active">
-			        		<a class="nav-link" href="leyendasUrbanas.php">Leyendas urbanas</a>
+			        		<a class="nav-link" href="leyendasUrbanas.php">Mitos y Leyendas</a>
 			      		</li>
 			      		<li class="nav-item active">
-			        		<a class="nav-link" href="HistoriasCortas.php">Mitos y Rumores</a>
+			        		<a class="nav-link" href="lugares.php">Territorio prohibido</a>
 			      		</li>
 			      		<li class="nav-item active">
 			        		<a class="nav-link" href="historia.php">Historias</a>
