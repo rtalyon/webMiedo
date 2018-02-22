@@ -81,6 +81,11 @@ div#fearPsycho{
 	font-family: 'Kalam', cursive;
 	font-size: 15px;
 }
+a:link, a:visited{
+	color: firebrick;
+	text-decoration: none; 
+}
+
 @media (max-width: 575px){
 	
 }
