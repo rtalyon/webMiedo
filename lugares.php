@@ -1,8 +1,8 @@
 <?php include("inc/head.php");?>
 	<div id="content" class="container-fluid ">
 		<div class="row mt-5" >
-			<div class="col-3 offset-1" id="zoom ">
-				<img src="img/hospital.jpeg" class="img-fluid">
+			<div class="col-3 offset-1" id="imghos ">
+				<img src="img/hospital.jpeg" class="img-fluid" alt="hospital">
 				
 			</div>	
 			<div>
