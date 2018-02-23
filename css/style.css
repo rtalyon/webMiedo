@@ -12,6 +12,18 @@ body, html {
 	/*background-repeat: repeat;*/
 	position: relative;
 }
+
+
+/* MIEDO HISTORIAS Y LEYENDAS NO SELECCIONABLE*/
+
+span.no_selection {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select:none;
+}
+
+
 .bgimg-1 {
   	position: relative;
   	opacity: 0.90;

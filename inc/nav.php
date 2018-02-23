@@ -1,13 +1,13 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #303030;">
 	  			<div class="container">
-	  			<a class="navbar-brand" href="index.php">
+	  			<a class="navbar-brand ml-5 mr-5" href="index.php">
 	  				<img src="img/if_Poltergeist_710069.png">
 	  			</a>
 	  			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 	    			<span class="navbar-toggler-icon"></span>
 	  			</button>
-	  			<div class="collapse navbar-collapse " id="navbarSupportedContent">
-	    			<ul class="navbar-nav mr-auto">
+	  			<div class="collapse navbar-collapse ml-5" id="navbarSupportedContent">
+	    			<ul class="navbar-nav ">
 	      			<!-- 	<li class="nav-item dropdown">
 	        				<a class="nav-link active dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Desplegable 1</a>
 	        					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -19,16 +19,16 @@
 	        					   <div class="dropdown-divider"></div> DIVIDER
 	        					</div>
 	      				</li> -->
-			      		<li class="nav-item active">
+			      		<li class="nav-item active ml-5 mr-5">
 			        		<a class="nav-link" href="Fear.php">Qué es el miedo?</a>
 			      		</li>
-			      		<li class="nav-item active">
+			      		<li class="nav-item active ml-5 mr-5">
 			        		<a class="nav-link" href="leyendasUrbanas.php">Mitos y Leyendas</a>
 			      		</li>
-			      		<li class="nav-item active">
+			      		<li class="nav-item active ml-5 mr-5">
 			        		<a class="nav-link" href="lugares.php">Territorio prohibido</a>
 			      		</li>
-			      		<li class="nav-item active">
+			      		<li class="nav-item active ml-5 mr-5">
 			        		<a class="nav-link" href="historia.php">Historias</a>
 			      		</li>
 	    			</ul>
